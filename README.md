@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @MichaelVoko — a Physics Master’s student at the University of Cambridge exploring the intersection of physics and machine learning.  
-- 👀 I’m interested in scientific machine learning, physics-informed neural networks (PINNs), and applications of ML in finance.  
-- 🌱 I’m currently learning PyTorch, numerical PDEs, and Monte Carlo methods, and applying them to problems in physics and quantitative finance.  
+- 👋 Hi, I’m @MichaelVoko — an MSc Physics student at the University of Cambridge.
+- 👀 I’m interested in exploring the intersection of physics and machine learning, and I am currently learning about Physics-Informed Neural Networks and their applications to inverse problems where real data are used to infer quantities using a given model. 
 - ⚡ Fun fact: I was once Top 100 in the world on Rocket League on Xbox!
 
 
