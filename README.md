@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @MichaelVoko — an MSc Physics student at the University of Cambridge.
-- 👀 I’m interested in exploring the intersection of physics and machine learning, and I am currently learning about Physics-Informed Neural Networks and their applications to inverse problems where real data are used to infer quantities using a given model. 
+- 👋 Hi, I’m @MichaelVoko, and I have just graduated from Part III Physics from the University of Cambridge.
+- 👀 I’m interested in statistical machine learning research, and I am currently learning about generative modelling and its applications to biomolecular inverse folding.
 - ⚡ Fun fact: I was once Top 100 in the world on Rocket League on Xbox!
 
 
